@@ -1,2 +1,2 @@
 # Digit_recognizer
-Based on the MNIST data set
+Based on the MNIST (digit/ numbers) data set
